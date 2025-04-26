@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi everyone 🐱
+
+Student in Computer Science at [Universidad Nacional del Oeste](https://www.uno.edu.ar/)  
+
+[![LinkedIn: Brandon Bravo](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-bravo-5a8a7a362/)
 
 <!--
 **brandon-bravo/brandon-bravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
